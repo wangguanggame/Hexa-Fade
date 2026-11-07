@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8",
+  "files": [],
+  "subMetas": {
+    "392cb": {
+      "importer": "gltf-mesh",
+      "uuid": "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@392cb",
+      "displayName": "",
+      "id": "392cb",
+      "name": "Arrow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 136
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55b43": {
+      "importer": "gltf-material",
+      "uuid": "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@55b43",
+      "displayName": "",
+      "id": "55b43",
+      "name": "lambert3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "935cf": {
+      "importer": "gltf-scene",
+      "uuid": "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@935cf",
+      "displayName": "",
+      "id": "935cf",
+      "name": "Arrow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@392cb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@55b43"
+      ],
+      "scenes": [
+        "c506d4bc-d602-4cf4-a0ea-f80dfde4bce8@935cf"
+      ]
+    }
+  }
+}

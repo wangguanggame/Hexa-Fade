@@ -1,0 +1,13 @@
+/* FB Instant Games OverlayView iframe 样式 */
+/* 这个文件需要放在构建输出目录，供 OverlayView 使用 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    background: transparent;
+}

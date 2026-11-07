@@ -1,0 +1,69 @@
+
+score_fx.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eff_Light00
+  rotate: false
+  xy: 2, 13
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+eff_circle
+  rotate: false
+  xy: 208, 111
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+eff_light001_1
+  rotate: false
+  xy: 2, 45
+  size: 83, 21
+  orig: 98, 25
+  offset: 3, 2
+  index: -1
+eff_light002
+  rotate: false
+  xy: 34, 16
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+eff_light002_1
+  rotate: true
+  xy: 208, 66
+  size: 43, 45
+  orig: 46, 49
+  offset: 2, 2
+  index: -1
+eff_light003
+  rotate: false
+  xy: 2, 68
+  size: 107, 103
+  orig: 107, 105
+  offset: 0, 1
+  index: -1
+eff_light004
+  rotate: true
+  xy: 160, 158
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+eff_light005
+  rotate: false
+  xy: 111, 68
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+eff_light006
+  rotate: false
+  xy: 2, 173
+  size: 156, 80
+  orig: 159, 82
+  offset: 2, 1
+  index: -1

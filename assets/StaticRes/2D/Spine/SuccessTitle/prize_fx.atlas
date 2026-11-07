@@ -1,0 +1,223 @@
+
+prize_fx.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+VICTORY
+  rotate: true
+  xy: 2, 24
+  size: 408, 85
+  orig: 412, 133
+  offset: 1, 26
+  index: -1
+caidai01
+  rotate: false
+  xy: 190, 26
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+caidai02
+  rotate: true
+  xy: 452, 240
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+cd1
+  rotate: false
+  xy: 452, 267
+  size: 26, 150
+  orig: 37, 160
+  offset: 6, 0
+  index: -1
+cd2
+  rotate: false
+  xy: 480, 272
+  size: 22, 145
+  orig: 37, 160
+  offset: 12, 4
+  index: -1
+cd3
+  rotate: true
+  xy: 560, 763
+  size: 26, 150
+  orig: 37, 160
+  offset: 6, 0
+  index: -1
+cd4
+  rotate: true
+  xy: 486, 438
+  size: 29, 66
+  orig: 46, 80
+  offset: 10, 7
+  index: -1
+gh_0
+  rotate: true
+  xy: 289, 419
+  size: 193, 195
+  orig: 200, 200
+  offset: 3, 2
+  index: -1
+gq2_0
+  rotate: false
+  xy: 89, 23
+  size: 99, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 338, 69
+  size: 41, 41
+  orig: 66, 69
+  offset: 17, 16
+  index: -1
+guang1
+  rotate: true
+  xy: 270, 45
+  size: 65, 66
+  orig: 66, 69
+  offset: 0, 1
+  index: -1
+hf_1
+  rotate: false
+  xy: 278, 112
+  size: 192, 126
+  orig: 231, 148
+  offset: 39, 14
+  index: -1
+hf_2
+  rotate: false
+  xy: 190, 61
+  size: 78, 91
+  orig: 183, 167
+  offset: 102, 72
+  index: -1
+hf_3
+  rotate: true
+  xy: 486, 469
+  size: 143, 114
+  orig: 189, 150
+  offset: 42, 36
+  index: -1
+jq1_h
+  rotate: false
+  xy: 183, 154
+  size: 93, 278
+  orig: 93, 278
+  offset: 0, 0
+  index: -1
+jq1_q
+  rotate: false
+  xy: 89, 125
+  size: 92, 307
+  orig: 93, 307
+  offset: 0, 0
+  index: -1
+ks
+  rotate: false
+  xy: 545, 620
+  size: 141, 141
+  orig: 155, 155
+  offset: 7, 7
+  index: -1
+light_glow
+  rotate: false
+  xy: 560, 791
+  size: 233, 231
+  orig: 279, 278
+  offset: 23, 24
+  index: -1
+light_line1
+  rotate: false
+  xy: 795, 788
+  size: 220, 234
+  orig: 285, 263
+  offset: 43, 23
+  index: -1
+light_line2
+  rotate: true
+  xy: 2, 434
+  size: 296, 285
+  orig: 309, 298
+  offset: 9, 12
+  index: -1
+ms
+  rotate: true
+  xy: 297, 614
+  size: 148, 246
+  orig: 148, 246
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 2, 2
+  size: 20, 19
+  orig: 26, 26
+  offset: 3, 3
+  index: -1
+star2
+  rotate: true
+  xy: 2, 2
+  size: 20, 19
+  orig: 26, 26
+  offset: 3, 3
+  index: -1
+star_light
+  rotate: false
+  xy: 602, 427
+  size: 94, 87
+  orig: 100, 100
+  offset: 4, 7
+  index: -1
+tb1
+  rotate: false
+  xy: 297, 764
+  size: 261, 258
+  orig: 282, 275
+  offset: 7, 14
+  index: -1
+tb12
+  rotate: false
+  xy: 2, 732
+  size: 293, 290
+  orig: 319, 320
+  offset: 13, 19
+  index: -1
+xian_l
+  rotate: false
+  xy: 1017, 1021
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zza1
+  rotate: false
+  xy: 1017, 1021
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xx02
+  rotate: false
+  xy: 712, 765
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+yd_c1_light
+  rotate: false
+  xy: 278, 240
+  size: 172, 177
+  orig: 200, 200
+  offset: 17, 12
+  index: -1
+yd_light
+  rotate: false
+  xy: 602, 516
+  size: 102, 102
+  orig: 112, 112
+  offset: 5, 5
+  index: -1

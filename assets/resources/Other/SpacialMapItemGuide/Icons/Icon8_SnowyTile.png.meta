@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "243ebb5d-168b-4498-8487-6eb05d21c55d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "243ebb5d-168b-4498-8487-6eb05d21c55d@6c48a",
+      "displayName": "Icon8_SnowyTile",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "243ebb5d-168b-4498-8487-6eb05d21c55d",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "243ebb5d-168b-4498-8487-6eb05d21c55d@f9941",
+      "displayName": "Icon8_SnowyTile",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 13,
+        "trimY": 1,
+        "width": 574,
+        "height": 590,
+        "rawWidth": 600,
+        "rawHeight": 600,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -287,
+            -295,
+            0,
+            287,
+            -295,
+            0,
+            -287,
+            295,
+            0,
+            287,
+            295,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            13,
+            599,
+            587,
+            599,
+            13,
+            9,
+            587,
+            9
+          ],
+          "nuv": [
+            0.021666666666666667,
+            0.015,
+            0.9783333333333334,
+            0.015,
+            0.021666666666666667,
+            0.9983333333333333,
+            0.9783333333333334,
+            0.9983333333333333
+          ],
+          "minPos": [
+            -287,
+            -295,
+            0
+          ],
+          "maxPos": [
+            287,
+            295,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "243ebb5d-168b-4498-8487-6eb05d21c55d@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "243ebb5d-168b-4498-8487-6eb05d21c55d@6c48a"
+  }
+}

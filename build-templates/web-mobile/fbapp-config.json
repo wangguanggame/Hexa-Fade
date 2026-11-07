@@ -1,0 +1,40 @@
+{
+    "instant_games": {
+      "platform_version": "RICH_GAMEPLAY",
+      "orientation": "PORTRAIT",
+      "navigation_menu_version":"NAV_BAR",
+      "bot":{
+        "subscription_type": "OPT_IN_PUBLIC"
+      },
+      "surfaceable_stats": {
+        "sampleId": {
+          "priority": 1,
+          "order": 1,
+          "label": {
+            "localizations": {
+              "en_US": "Sample"
+            },
+            "fallback": "Sample"
+          },
+          "values":{}
+        }
+      },
+      "custom_update_templates": {
+        "generic": {
+          "example": "Edgar played their move"
+        },
+        "skin": {
+          "example": "I've got a new skin, It's awesome right?😁"
+        },
+        "score": {
+          "example": "Can you beat my score?😁"
+        },
+        "invite": {
+          "example": "Wow! I can't believe I did that.😁"
+        },
+        "revive": {
+          "example": "Edgar played their move"
+        }
+      }
+    }
+  }
